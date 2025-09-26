@@ -1,0 +1,6 @@
+godot-cpp/
+.import/
+*.o
+*.a
+*.dylib
+# keep .frameworks so the grader can run without rebuilding

@@ -1,0 +1,8 @@
+res://scenes/main.tscn
+res://scenes/bird.tscn
+res://scripts/Bird.gd
+res://scripts/GameState.gd
+res://scripts/main.gd
+res://scenes/PipePair.tscn
+res://scripts/PipePair.gd
+res://scripts/PipeSpawner.gd
